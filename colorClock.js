@@ -26,8 +26,8 @@ function colorClock(){
 }, 1000);
   
 }
+document.body.style.background = 'red';
+
 
 colorClock();
-
-document.body.style.background = 'red';
 
